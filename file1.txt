@@ -1,2 +1,1 @@
-Hello this data is to be stored in first commit
-he another additional line has been added to the file1
+Here the data of feature
